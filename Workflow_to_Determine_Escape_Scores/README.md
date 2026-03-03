@@ -84,10 +84,6 @@ PacBio library sequencing is required to connect variants to their respective ba
 
 CHECK BELOW!!!!
 
-## Initial GFP<sup>+</sup>Myc<sup>+</sup> Selection
-
-Input files and scripts for the calculation of variant expression upon Myc<sup>+</sup> selection are provided [here](https://github.com/Ortlund-Laboratory/SARS-CoV-2-Structure/tree/main/Raw%20Deep%20Mutational%20Scanning%20(DMS)%20Data/Initial_GFP%2B_Myc%2B_Selection)
-
 ## Workflow
 
 Input files and scripts for the calculation and presentation of scores are provided [here](https://github.com/Ortlund-Laboratory/SARS-CoV-2-Structure/tree/main/Raw%20Deep%20Mutational%20Scanning%20(DMS)%20Data/Workflow).
