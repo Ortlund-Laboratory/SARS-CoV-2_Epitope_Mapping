@@ -1,4 +1,4 @@
-This folder contains the escape profiles for each of the 82 antibodies we studied.
+This folder contains the escape profiles for each of the antibodies we studied.
 
 Raw results are provided for each antibody in .csv format.
 
