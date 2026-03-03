@@ -1,8 +1,5 @@
 # SARS-CoV-2 Nucleocapsid Structure DMS
 
-## Paper
-Paper can be found [here]need to provide link when available.
-
 ## Build Computing Environment
 `conda` is required, and can be obtained _via_ the minimal installer, `miniconda`, [here](https://docs.anaconda.com/free/miniconda/).
 
