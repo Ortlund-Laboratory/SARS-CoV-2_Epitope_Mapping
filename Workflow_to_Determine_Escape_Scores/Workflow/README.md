@@ -29,7 +29,7 @@ SARS-CoV-2 nucleocapsid wildtype sequence (Wuhan).<br>
 
 ### Sequencing Data
 
-The workflow operates on Illumina barcode sequencing data in fastq.gz format and these files are kept compressed throughout. File location and name should match the listings given in [data/barcode_runs.csv](https://github.com/Ortlund-Laboratory/SARS-CoV-2-Structure/blob/main/Raw%20Deep%20Mutational%20Scanning%20(DMS)%20Data/Workflow/data/barcode_runs.csv). These files are too large to be contained in GitHub, and so are found, respectively, at:
+The workflow operates on Illumina barcode sequencing data in fastq.gz format and these files are kept compressed throughout. File location and name should match the listings given in [data/barcode_runs.csv](https://github.com/Ortlund-Laboratory/SARS-CoV-2_Epitope_Mapping/tree/main/Workflow_to_Determine_Escape_Scores/Workflow/data/barcode_runs.csv). These files are too large to be contained in GitHub, and so are found, respectively, at:
 
 **p22064-s003_220225_03_S150_L002_R2_001.fastq.gz**<br>
 Search NCBI BioProject PRJNA1216977 (BioSample SAMN46474440) or click [here](https://www.ncbi.nlm.nih.gov/bioproject/1216977).
