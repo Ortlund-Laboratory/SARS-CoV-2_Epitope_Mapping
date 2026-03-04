@@ -50,8 +50,7 @@ rstudio Mar2022_mycneg_myBarcodeMapping.R
 Log of each mutation and its associated score.<br>
 [MycNeg_per_site_score.csv](https://github.com/Ortlund-Laboratory/SARS-CoV-2-Structure/blob/main/Raw%20Deep%20Mutational%20Scanning%20(DMS)%20Data/Workflow/scores_and_visualization/mycneg/full_NP/output/MycNeg_per_site_score.csv)<br>
 Log of each site and its associated averaged score.<br>
-[MycNeg_Fraction_heatmap01.png](https://github.com/Ortlund-Laboratory/SARS-CoV-2-Structure/blob/main/Raw%20Deep%20Mutational%20Scanning%20(DMS)%20Data/Workflow/scores_and_visualization/mycneg/full_NP/output/MycNeg_Fraction_heatmap01.png)<br>
-Heatmap of scores for all single-point variants from the MycNeg sample (part 1).<br>
-[MycNeg_Fraction_heatmap02.png](https://github.com/Ortlund-Laboratory/SARS-CoV-2-Structure/blob/main/Raw%20Deep%20Mutational%20Scanning%20(DMS)%20Data/Workflow/scores_and_visualization/mycneg/full_NP/output/MycNeg_Fraction_heatmap02.png)<br>
-Heatmap of scores for all single-point variants from the MycNeg sample (part 2).<br>
+
+
+The output here is not z-normalized, but can be for further analysis.
 
