@@ -31,24 +31,24 @@ Now that we have the input files formatted correctly, we are ready to calculate 
 
 [BarcodeMapping.R](https://github.com/Ortlund-Laboratory/SARS-CoV-2_Epitope_Mapping/blob/main/Workflow_to_Determine_Escape_Scores/Workflow/escape_score_calc/BarcodeMapping.R)<br>
 R script to calculate escape scores from reference and escape counts.<br>
-[ref_variant_counts.txt](https://github.com/Ortlund-Laboratory/SARS-CoV-2-Structure/blob/main/Raw%20Deep%20Mutational%20Scanning%20(DMS)%20Data/Workflow/scores_and_visualization/mycneg/full_NP/ref_variant_counts.txt)<br>
+[ref_variant_counts.txt](https://github.com/Ortlund-Laboratory/SARS-CoV-2_Epitope_Mapping/tree/main/Workflow_to_Determine_Escape_Scores/Workflow/escape_score_calc/ref_variant_counts.txt)<br>
 Barcode counts for the reference sample.<br>
-[mycneg_variant_counts.txt](https://github.com/Ortlund-Laboratory/SARS-CoV-2-Structure/blob/main/Raw%20Deep%20Mutational%20Scanning%20(DMS)%20Data/Workflow/scores_and_visualization/mycneg/full_NP/mycneg_variant_counts.txt)<br>
-Barcode counts for the mycneg sample.<br>
-[N_Wuhan.fasta](https://github.com/Ortlund-Laboratory/SARS-CoV-2-Structure/blob/main/Raw%20Deep%20Mutational%20Scanning%20(DMS)%20Data/Workflow/scores_and_visualization/mycneg/full_NP/N_Wuhan.fasta)<br>
-Amino acid sequence for N Wuhan. This is required to complete the heatmap.
+[esc_variant_counts.txt](https://github.com/Ortlund-Laboratory/SARS-CoV-2_Epitope_Mapping/tree/main/Workflow_to_Determine_Escape_Scores/Workflow/escape_score_calc/esc_variant_counts.txt)<br>
+Barcode counts for the escape sample.<br>
+[N_Wuhan.fasta](https://github.com/Ortlund-Laboratory/SARS-CoV-2_Epitope_Mapping/tree/main/Workflow_to_Determine_Escape_Scores/Workflow/escape_score_calc/N_Wuhan.fasta)<br>
+Amino acid sequence for N Wuhan.
 
 ## Workflow
 
 ```
-rstudio Mar2022_mycneg_myBarcodeMapping.R
+rstudio BarcodeMapping.R
 ```
 
 ## Key Output
 
-[MycNeg_scores.csv](https://github.com/Ortlund-Laboratory/SARS-CoV-2-Structure/blob/main/Raw%20Deep%20Mutational%20Scanning%20(DMS)%20Data/Workflow/scores_and_visualization/mycneg/full_NP/output/MycNeg_scores.csv)<br>
+[Ab339_escape_fractions.csv](https://github.com/Ortlund-Laboratory/SARS-CoV-2_Epitope_Mapping/tree/main/Workflow_to_Determine_Escape_Scores/Workflow/escape_score_calc/Ab339_escape_fractions.csv)<br>
 Log of each mutation and its associated score.<br>
-[MycNeg_per_site_score.csv](https://github.com/Ortlund-Laboratory/SARS-CoV-2-Structure/blob/main/Raw%20Deep%20Mutational%20Scanning%20(DMS)%20Data/Workflow/scores_and_visualization/mycneg/full_NP/output/MycNeg_per_site_score.csv)<br>
+[Ab339_average_escape.csv](https://github.com/Ortlund-Laboratory/SARS-CoV-2_Epitope_Mapping/tree/main/Workflow_to_Determine_Escape_Scores/Workflow/escape_score_calc/Ab339_average_escape.csv)<br>
 Log of each site and its associated averaged score.<br>
 
 
