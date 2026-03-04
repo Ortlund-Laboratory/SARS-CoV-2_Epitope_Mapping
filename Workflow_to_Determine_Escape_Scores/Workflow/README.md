@@ -43,9 +43,9 @@ Run `snakemake` using specified number of cores:
 
 ## Key Output
 
-[results/counts/barcode_fates.csv](https://github.com/Ortlund-Laboratory/SARS-CoV-2-Structure/blob/main/Raw%20Deep%20Mutational%20Scanning%20(DMS)%20Data/Workflow/results/counts/barcode_fates.csv)<br>
+[results/counts/barcode_fates.csv](https://github.com/Ortlund-Laboratory/SARS-CoV-2_Epitope_Mapping/blob/main/Workflow_to_Determine_Escape_Scores/Workflow/results/counts/barcode_fates.csv)<br>
 Tally of barcodes classified and filtered according to quality.<br>
-[results/counts/variant_counts.csv](https://github.com/Ortlund-Laboratory/SARS-CoV-2-Structure/blob/main/Raw%20Deep%20Mutational%20Scanning%20(DMS)%20Data/Workflow/results/counts/variant_counts.csv)<br>
+[results/counts/variant_counts.csv](https://github.com/Ortlund-Laboratory/SARS-CoV-2_Epitope_Mapping/blob/main/Workflow_to_Determine_Escape_Scores/Workflow/results/counts/variant_counts.csv)<br>
 Tally of individual barcode counts for each sample.<br>
 
 ## Stability Score Generation & Data Visualization
