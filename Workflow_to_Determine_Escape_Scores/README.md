@@ -79,12 +79,10 @@ For the Twist library used, click [here](https://github.com/Ortlund-Laboratory/S
 
 PacBio library sequencing is required to connect variants to their respective barcodes. This process is described in [PacBio](https://github.com/Ortlund-Laboratory/SARS-CoV-2-Structure/tree/main/Raw%20Deep%20Mutational%20Scanning%20(DMS)%20Data/PacBio).
 
-CHECK BELOW!!!!
-
 ## Workflow
 
-Input files and scripts for the calculation and presentation of scores are provided [here](https://github.com/Ortlund-Laboratory/SARS-CoV-2-Structure/tree/main/Raw%20Deep%20Mutational%20Scanning%20(DMS)%20Data/Workflow).
+Input files and scripts for the calculation and presentation of scores are provided [here](https://github.com/Ortlund-Laboratory/SARS-CoV-2_Epitope_Mapping/tree/main/Workflow_to_Determine_Escape_Scores/Workflow).
 
 ## Deposited Data
 
-Relevant input/output data are deposited in [Workflow](https://github.com/Ortlund-Laboratory/SARS-CoV-2-Structure/tree/main/Raw%20Deep%20Mutational%20Scanning%20(DMS)%20Data/Workflow). Large sequencing files which cannot be maintained on GitHub are provided in external databases, and links are provided. Users should be able to recreate our results. Should issues arise, please contact adkeith@emory.edu or eortlun@emory.edu. 
+Relevant input/output data are deposited in [Workflow](https://github.com/Ortlund-Laboratory/SARS-CoV-2_Epitope_Mapping/tree/main/Workflow_to_Determine_Escape_Scores/Workflow). Large sequencing files which cannot be maintained on GitHub are provided in external databases, and links are provided. Users should be able to recreate our results. Should issues arise, please contact adkeith@emory.edu or eortlun@emory.edu. 
