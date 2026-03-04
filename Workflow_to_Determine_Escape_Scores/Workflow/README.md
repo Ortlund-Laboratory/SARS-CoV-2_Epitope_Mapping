@@ -29,16 +29,7 @@ SARS-CoV-2 nucleocapsid wildtype sequence (Wuhan).<br>
 
 ### Sequencing Data
 
-The workflow operates on Illumina barcode sequencing data in fastq.gz format and these files are kept compressed throughout. File location and name should match the listings given in [data/barcode_runs.csv](https://github.com/Ortlund-Laboratory/SARS-CoV-2_Epitope_Mapping/tree/main/Workflow_to_Determine_Escape_Scores/Workflow/data/barcode_runs.csv). These files are too large to be contained in GitHub, and so are found, respectively, at:
-
-**p22064-s003_220225_03_S150_L002_R2_001.fastq.gz**<br>
-Search NCBI BioProject PRJNA1216977 (BioSample SAMN46474440) or click [here](https://www.ncbi.nlm.nih.gov/bioproject/1216977).
-
-**p22064-s004_220225_04_S151_L002_R2_001.fastq.gz**<br>
-Search NCBI BioProject PRJNA1216977 (BioSample SAMN46474441) or click [here](https://www.ncbi.nlm.nih.gov/bioproject/1216977).
-
-**p22064-s005_220225_05_S152_L002_R2_001.fastq.gz**<br>
-Search NCBI BioProject PRJNA1216977 (BioSample SAMN46474442) or click [here](https://www.ncbi.nlm.nih.gov/bioproject/1216977).
+The workflow operates on Illumina barcode sequencing data in fastq.gz format and these files are kept compressed throughout. File location and name should match the listings given in [data/barcode_runs.csv](https://github.com/Ortlund-Laboratory/SARS-CoV-2_Epitope_Mapping/tree/main/Workflow_to_Determine_Escape_Scores/Workflow/data/barcode_runs.csv). These files are too large to be contained in GitHub, and will be uploaded to the NCBI along with nucleocapsid variant sequences following FACS analysis with all the other antibodies we investigated. For reviewers, the sequences are available upon request (adkeith@emory.edu & eortlun@emory.edu).
 
 ## Workflow
 
