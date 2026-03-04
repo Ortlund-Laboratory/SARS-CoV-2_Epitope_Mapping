@@ -1,0 +1,3 @@
+library,sample,date,experiment,antibody,concentration,concentration_units,group,selection,frac_escape,cells_sorted,R1
+N-Lib05,exp1-none-0-reference,23068,exp1,none,0,ng_per_mL,none,reference,NaN,5000000,/home/adkeith@Eu.Emory.Edu/DMS_Workflow/nucleocapsid/test_p23068_analysis_Ab339_CorDx/p23068-s001_N05-Reference_S202_L003_R2_001.fastq.gz
+N-Lib05,exp2-Ab339-2000-escape,23068,exp2,Ab339,2000,ng_per_mL,DK,escape,0.15,1000000,/home/adkeith@Eu.Emory.Edu/DMS_Workflow/nucleocapsid/test_p23068_analysis_Ab339_CorDx/p23068-s007_Ab339-Bottom_S208_L003_R2_001.fastq.gz
