@@ -16,15 +16,15 @@ Converts barcodes located at the R2 end to the R1 end by taking the reverse comp
 Counts the number of times a barcode (and by extension a variant) appears in each Illumina barcode sequencing sample.<br>
 [scripts/run_nb.py](https://github.com/Ortlund-Laboratory/SARS-CoV-2_Epitope_Mapping/tree/main/Workflow_to_Determine_Escape_Scores/Workflow/scripts/run_nb.py)<br>
 Runs Jupyter notebooks and creates Markdown output.<br>
-[data/feature_parse_specs.yaml](https://github.com/Ortlund-Laboratory/SARS-CoV-2-Structure/blob/main/Raw%20Deep%20Mutational%20Scanning%20(DMS)%20Data/Workflow/data/feature_parse_specs.yaml)<br>
+[data/feature_parse_specs.yaml](https://github.com/Ortlund-Laboratory/SARS-CoV-2_Epitope_Mapping/tree/main/Workflow_to_Determine_Escape_Scores/Workflow/data/feature_parse_specs.yaml)<br>
 Script for controlling the sequence parsing strategy.<br>
-[data/PacBio_amplicons.gb](https://github.com/Ortlund-Laboratory/SARS-CoV-2-Structure/blob/main/Raw%20Deep%20Mutational%20Scanning%20(DMS)%20Data/Workflow/data/PacBio_amplicons.gb)<br>
+[data/PacBio_amplicons.gb](https://github.com/Ortlund-Laboratory/SARS-CoV-2_Epitope_Mapping/tree/main/Workflow_to_Determine_Escape_Scores/Workflow/data/PacBio_amplicons.gb)<br>
 GeneBank data file describing sequence features.<br>
-[data/barcode_runs.csv](https://github.com/Ortlund-Laboratory/SARS-CoV-2-Structure/blob/main/Raw%20Deep%20Mutational%20Scanning%20(DMS)%20Data/Workflow/data/barcode_runs.csv)<br>
+[data/barcode_runs.csv](https://github.com/Ortlund-Laboratory/SARS-CoV-2_Epitope_Mapping/tree/main/Workflow_to_Determine_Escape_Scores/Workflow/data/barcode_runs.csv)<br>
 List of Illumina barcode samples to be analyzed by the snakemake workflow.<br>
-[data/processed_ccs.csv.gz](https://github.com/Ortlund-Laboratory/SARS-CoV-2-Structure/blob/main/Raw%20Deep%20Mutational%20Scanning%20(DMS)%20Data/Workflow/data/processed_ccs.csv.gz)<br>
+[data/processed_ccs.csv.gz](https://github.com/Ortlund-Laboratory/SARS-CoV-2_Epitope_Mapping/tree/main/Workflow_to_Determine_Escape_Scores/Workflow/data/processed_ccs.csv.gz)<br>
 Processed PacBio CCSs, generated from our [PacBio](https://github.com/Ortlund-Laboratory/SARS-CoV-2-Structure/tree/main/Raw%20Deep%20Mutational%20Scanning%20(DMS)%20Data/PacBio) routine. Ensure the library is consistent with those used for the assay.<br>
-[data/wildtype_sequence.fasta](https://github.com/Ortlund-Laboratory/SARS-CoV-2-Structure/blob/main/Raw%20Deep%20Mutational%20Scanning%20(DMS)%20Data/Workflow/data/wildtype_sequence.fasta)<br>
+[data/wildtype_sequence.fasta](https://github.com/Ortlund-Laboratory/SARS-CoV-2_Epitope_Mapping/tree/main/Workflow_to_Determine_Escape_Scores/Workflow/data/wildtype_sequence.fasta)<br>
 SARS-CoV-2 nucleocapsid wildtype sequence (Wuhan).<br>
 
 ### Sequencing Data
