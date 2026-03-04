@@ -4,6 +4,6 @@ Using our .csv escape data from [Individual_Antibody_Escape_Profiles](https://gi
 
 R script also runs a principal component analysis (PCA). To ensure appropriate clustering, we ran elbow, silhouette and gap analysis, and picked the optimal *k* based on the results from these. We chose *k* = 14 because it was the result given by the gap method, and it fell between the numbers suggested by the elbow (8) and silhouette (22) methods.
 
-To run R script with our .csv escape data files, we also required a reference.csv file, which is also included here. 
+To run R script with our .csv escape data files, we also required a reference.csv file, which is also included here. I also wished to order my correlogram in a particular way, so included a predefined order, corr_order.csv.
 
 Output is given in the Output subfolder.
