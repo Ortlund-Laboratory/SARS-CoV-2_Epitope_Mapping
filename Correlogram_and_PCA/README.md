@@ -6,4 +6,4 @@ Using our .csv escape data from [Individual_Antibody_Escape_Profiles](https://gi
 
 To run [correlogram_and_PCA.R](https://github.com/Ortlund-Laboratory/SARS-CoV-2_Epitope_Mapping/blob/main/Correlogram_and_PCA/correlogram_and_PCA.R) with our .csv escape data files, we also required [reference.csv](https://github.com/Ortlund-Laboratory/SARS-CoV-2_Epitope_Mapping/blob/main/Correlogram_and_PCA/reference.csv) file, which is also included here. I also wished to order my correlogram in a particular way, so included a predefined order, [corr_order.csv](https://github.com/Ortlund-Laboratory/SARS-CoV-2_Epitope_Mapping/blob/main/Correlogram_and_PCA/corr_order.csv).
 
-Output is given in the Output subfolder.
+Output is given in the [Output](https://github.com/Ortlund-Laboratory/SARS-CoV-2_Epitope_Mapping/tree/main/Correlogram_and_PCA/Output) subfolder.
