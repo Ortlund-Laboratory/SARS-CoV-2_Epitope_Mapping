@@ -1,0 +1,11 @@
+fate,count,library,sample
+valid barcode,66881664,N-Lib05,exp1-none-0-reference
+invalid barcode,10804071,N-Lib05,exp1-none-0-reference
+low quality barcode,10318945,N-Lib05,exp1-none-0-reference
+unparseable barcode,4164376,N-Lib05,exp1-none-0-reference
+failed chastity filter,0,N-Lib05,exp1-none-0-reference
+valid barcode,9977980,N-Lib05,exp2-Ab339-2000-escape
+unparseable barcode,3929781,N-Lib05,exp2-Ab339-2000-escape
+invalid barcode,1630814,N-Lib05,exp2-Ab339-2000-escape
+low quality barcode,1571883,N-Lib05,exp2-Ab339-2000-escape
+failed chastity filter,0,N-Lib05,exp2-Ab339-2000-escape
