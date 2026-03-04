@@ -50,4 +50,4 @@ Tally of individual barcode counts for each sample.<br>
 
 ## Escape Score Generation
 
-Go to [escape_score_calc](https://github.com/Ortlund-Laboratory/SARS-CoV-2-Structure/tree/main/Raw%20Deep%20Mutational%20Scanning%20(DMS)%20Data/Workflow/scores_and_visualization) for escape score calculation.
+Go to [escape_score_calc](https://github.com/Ortlund-Laboratory/SARS-CoV-2_Epitope_Mapping/tree/main/Workflow_to_Determine_Escape_Scores/Workflow/escape_score_calc) for escape score calculation.
