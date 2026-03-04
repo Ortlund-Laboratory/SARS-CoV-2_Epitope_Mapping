@@ -4,7 +4,7 @@ SARS-CoV-2 nucleocapsid variant escape scores were investigated, with a referenc
 
 ## Input Files Required
 
-[SnakeFile](https://github.com/Ortlund-Laboratory/SARS-CoV-2-Structure/blob/main/Raw%20Deep%20Mutational%20Scanning%20(DMS)%20Data/Workflow/Snakefile)<br>
+[SnakeFile](https://github.com/Ortlund-Laboratory/SARS-CoV-2_Epitope_Mapping/tree/main/Workflow_to_Determine_Escape_Scores/Workflow)<br>
 Gives overall instructions for the `snakemake` workflow.<br>
 [config.yaml](https://github.com/Ortlund-Laboratory/SARS-CoV-2-Structure/blob/main/Raw%20Deep%20Mutational%20Scanning%20(DMS)%20Data/Workflow/config.yaml)<br>
 Configuration script controlling variables used by Jupyter notebooks.<br>
