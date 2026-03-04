@@ -1,0 +1,3 @@
+## Lineages and Escape Scores
+
+Data from GISAID and outbreak.info shows that SARS-CoV-2 nucleocapsid has mutated in various ways between lineages. We collected these mutations into raw_data_for_lineage.csv for cross-referencing against average escape scores for these particular mutations per cluster. This was to determine how susceptible these various clusters of antibodies were to mutations actually tracked in mature. We use lineages_and_cluster.R to generate the collection of barcharts, squashed_escape_boxplots_by_cluster.png.
