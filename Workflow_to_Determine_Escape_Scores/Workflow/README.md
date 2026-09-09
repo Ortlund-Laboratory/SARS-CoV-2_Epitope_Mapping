@@ -31,11 +31,11 @@ SARS-CoV-2 nucleocapsid wildtype sequence (Wuhan).<br>
 
 The workflow operates on Illumina barcode sequencing data in fastq.gz format and these files are kept compressed throughout. File location and name should match the listings given in [data/barcode_runs.csv](https://github.com/Ortlund-Laboratory/SARS-CoV-2_Epitope_Mapping/tree/main/Workflow_to_Determine_Escape_Scores/Workflow/data/barcode_runs.csv). These files are too large to be contained in GitHub, and are available from the NCBI, along with nucleocapsid variant sequences following FACS analysis with all the other antibodies we investigated.
 
-NCBI links are as follows:
-BioProject:
+NCBI links are as follows:<br>
+BioProject:<br>
 BioSample:
 
-Please consult [Log_of_files_for_NCBI.xlsx]() to determine the appropriate reference files to be used when replicating escape score results. We always collected a reference population on the same day we ran FACS experiments to ensure consistency between cells. Please note that a reference file for the R001_Quidel antibody is missing, and sequencing datasets for MAD4904_Roche, mAb22-048-C_Roche, mAb-OTI-1_OraSure, mAb-OTI-2_OraSure, mAb4_AzureBiotech and mAb5_AzureBiotech are no longer available, as detailed in the Excel file. Though these sequencing files are not available, we have retained the escape score files (see [here](https://github.com/Ortlund-Laboratory/SARS-CoV-2_Epitope_Mapping/tree/main/Individual_Antibody_Escape_Profiles) and so they can be included in downstream analyses. 
+Please consult [Log_of_files_for_NCBI.xlsx]() to determine the appropriate reference files to be used when replicating escape score results. We always collected a reference population on the same day we ran FACS experiments to ensure consistency between cells. Please note that a reference file for the R001_Quidel antibody is missing, and sequencing datasets for MAD4904_Roche, mAb22-048-C_Roche, mAb-OTI-1_OraSure, mAb-OTI-2_OraSure, mAb4_AzureBiotech and mAb5_AzureBiotech are no longer available, as detailed in the Excel file. Though these sequencing files are not available, we have retained the escape score files (see [here](https://github.com/Ortlund-Laboratory/SARS-CoV-2_Epitope_Mapping/tree/main/Individual_Antibody_Escape_Profiles)) and so they can be included in downstream analyses. 
 
 
 ## Workflow
