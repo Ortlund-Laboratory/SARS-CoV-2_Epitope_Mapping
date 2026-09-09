@@ -85,4 +85,4 @@ Input files and scripts for the calculation and presentation of scores are provi
 
 ## Deposited Data
 
-Relevant input/output data are deposited in [Workflow](https://github.com/Ortlund-Laboratory/SARS-CoV-2_Epitope_Mapping/tree/main/Workflow_to_Determine_Escape_Scores/Workflow). Large sequencing files which cannot be maintained on GitHub are provided in external databases, and links are provided. Users should be able to recreate our results. Should issues arise, please contact adkeith@emory.edu or eortlun@emory.edu. 
+Relevant input/output data are deposited in [Workflow](https://github.com/Ortlund-Laboratory/SARS-CoV-2_Epitope_Mapping/tree/main/Workflow_to_Determine_Escape_Scores/Workflow). Large sequencing files which cannot be maintained on GitHub are provided in external databases, and links are provided in [Workflow](https://github.com/Ortlund-Laboratory/SARS-CoV-2_Epitope_Mapping/tree/main/Workflow_to_Determine_Escape_Scores/Workflow). Users should be able to recreate our results. Should issues arise, please contact adkeith@emory.edu or eortlun@emory.edu. 
